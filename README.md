@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Thiago Tavares da Cunha Muzetti
+## 👋 Olá! Eu sou o Thiago Muzetti
 
 Programador Delphi apaixonado por criar soluções inovadoras e eficientes. Com 23 anos de idade, estou constantemente buscando aprender e aprimorar minhas habilidades no desenvolvimento de software.
 
